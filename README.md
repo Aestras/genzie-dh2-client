@@ -4,7 +4,9 @@ DH2 Setup Guide
 https://discord.com/channels/728325596723281992/1182025094462189598/1182025094462189598
 
 To build, run "node build full" in /genzie-dh2-client (build.bat supplied)
+
 This will build the client and create DH2 in /genzie-dh2-client/caches/DH2
+
 To run, run "node pokemon-showdown" in /genzie-dh2-client/caches/DH2
 
 Everything below this point is from Pokemon Showdown's original git
